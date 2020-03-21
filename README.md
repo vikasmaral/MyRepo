@@ -1,2 +1,2 @@
 # MyRepo
-GitPractice
+GitPractice My first practice
